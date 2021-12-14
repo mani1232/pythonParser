@@ -1,8 +1,7 @@
 # pythonParser
 Searches by name on the site https://ek.ua/
-
-<p>
-  #V0.1
-  Displays prices
-  Displays links
-</p>
+<h2>V0.1 </h2>
+Displays prices<br>
+Displays links
+<h2>V0.2 </h2>
+soon...
