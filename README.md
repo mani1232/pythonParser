@@ -6,6 +6,6 @@ BeautifulSoup
 <h2>Pythoon</h2>
 3.8.10
 <h2>V0.2 </h2>
-add input feature
-code refactor
-add reverse price
+add input feature<br>
+code refactor<br>
+add reverse price<br>
